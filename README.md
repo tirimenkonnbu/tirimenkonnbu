@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋 I'm Miwa. 
+🌱 I’m currently learning programming and coding. also SQL and VBA...
 
 <!--
 **tirimenkonnbu/tirimenkonnbu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
